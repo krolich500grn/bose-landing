@@ -1,7 +1,7 @@
 # Bose landing page
-- [DEMOLINK](https://krolich500grn.github.io/layout_miami/)
+- [DEMOLINK](https://krolich500grn.github.io/bose-landing/)
 
-# Technologies
+### Technologies
 - HTML5
 - SCSS
 - BEM
