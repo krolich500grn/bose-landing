@@ -1,6 +1,8 @@
 # Bose landing page
 - [DEMOLINK](https://krolich500grn.github.io/bose-landing/)
 
+Bose landing page is one-page business card for Ukrainian retailer of Bose.
+
 ### Technologies
 - HTML5
 - SCSS
