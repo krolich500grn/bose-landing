@@ -9,6 +9,7 @@ Implemented according to [Figma design](https://www.figma.com/file/OMjQNb3hg1LKM
 - HTML5
 - SCSS
 - BEM
+- Adaptive layout
 
 ### Dependencies
 * Node v14.18.2 and higher
